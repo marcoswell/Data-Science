@@ -5,7 +5,8 @@
 - Data Scienece problems
 - Data Mining
 - Machine Learning
-- Python 
+- Python
+- Kaggle 
 
   
 ### Autor: Marcos Well https://www.linkedin.com/in/marcoswell/
